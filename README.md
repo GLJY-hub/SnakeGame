@@ -13,7 +13,7 @@ This is a lightweight console-based Snake game written purely in C++. The game f
 
 ## 📥 Download
 You can download the executable file directly from the link below:
-[main.exe](https://github.com/your-username/your-repo-name/raw/main/main.exe)
+[Compiled Program](https://github.com/GLJY-hub/SnakeGame/blob/main/SnakeGame.exe)
 
 > ⚠️ **Note**: Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name to make the download link valid.
 
@@ -32,4 +32,5 @@ You can download the executable file directly from the link below:
 LiJunyi
 
 ## 📌 Version
+
 1.0
