@@ -2,7 +2,7 @@
 A simple classic Snake game implemented in C++ for Windows platform, created by LiJunyi.
 
 ## 📜 About
-This is a lightweight console-based Snake game written purely in C++. The game features basic snake movement, food spawning, collision detection (with walls and self), and game restart/exit functionality.
+This is a lightweight console-based Snake game written purely in C++. The game features basic snake movement, food spawning, collision detection (with walls and self), and game restart/exit functionality. There will definitely be a lot of bugs, feedback is welcome.
 
 ## 🎮 How to Play
 | Key          | Action                  |
@@ -32,5 +32,6 @@ Li Junyi
 ## 📌 Version
 
 1.0
+
 
 
