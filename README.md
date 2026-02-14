@@ -15,8 +15,6 @@ This is a lightweight console-based Snake game written purely in C++. The game f
 You can download the executable file directly from the link below:
 [Compiled Program](https://github.com/GLJY-hub/SnakeGame/blob/main/SnakeGame.exe)
 
-> ⚠️ **Note**: Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name to make the download link valid.
-
 ## 🖥️ Requirements
 - Windows operating system (the game uses Windows API for console manipulation)
 - No additional dependencies (the executable is standalone)
@@ -34,3 +32,4 @@ LiJunyi
 ## 📌 Version
 
 1.0
+
